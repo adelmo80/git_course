@@ -1,1 +1,6 @@
 We creat new text file to learning how can i pull this file to local repo.
+
+we learned git clone to clone the remote repo to my pc
+git add to add changes from loacal repo to stage
+git commit to make pupshiler the the file changed and make it ready to push it to remote repo
+git push to upload all file changed from local repo to remote repo
